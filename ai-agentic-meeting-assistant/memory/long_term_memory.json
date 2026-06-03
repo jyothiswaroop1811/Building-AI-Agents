@@ -1,0 +1,8 @@
+{
+    "Acme Corp": {
+        "priority": "High",
+        "last_meeting": "2026-05-10",
+        "relationship_status": "Active Client",
+        "notes": "Interested in predictive maintenance solutions."
+    }
+}

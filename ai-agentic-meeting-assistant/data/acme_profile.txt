@@ -1,0 +1,12 @@
+Acme Corp is a manufacturing company.
+
+Primary contact:
+John Smith
+
+Industry:
+Industrial Equipment
+
+Current contract value:
+$200,000
+
+Interested in predictive maintenance solutions.
